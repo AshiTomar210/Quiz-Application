@@ -1,0 +1,95 @@
+What is the capital of India?;New Delhi;Mumbai;Kolkata;Chennai;0
+Which planet is known as the Red Planet?;Venus;Mars;Jupiter;Saturn;1
+Who wrote the national anthem of India?;Bankim Chandra Chatterjee;Rabindranath Tagore;Mahatma Gandhi;Sarojini Naidu;1
+The largest ocean in the world is?;Atlantic Ocean;Pacific Ocean;Indian Ocean;Arctic Ocean;1
+What is the chemical symbol for water?;O2;H2O;CO2;NaCl;1
+Which gas do humans need to breathe?;Carbon Dioxide;Oxygen;Nitrogen;Helium;1
+Which country is known as the Land of the Rising Sun?;China;India;Japan;Thailand;2
+Who is known as the Father of the Nation (India)?;Subhash Chandra Bose;Mahatma Gandhi;Jawaharlal Nehru;Bhagat Singh;1
+What is the national animal of India?;Lion;Tiger;Elephant;Leopard;1
+Which continent is called the Dark Continent?;Asia;South America;Africa;Australia;2
+Who invented the telephone?;Alexander Graham Bell;Thomas Edison;Nikola Tesla;James Watt;0
+What is the hardest natural substance on Earth?;Gold;Iron;Diamond;Platinum;2
+What is the capital of France?;Berlin;Madrid;Paris;Rome;2
+How many players are there in a cricket team?;9;10;11;12;2
+Which planet is the largest in the solar system?;Earth;Saturn;Jupiter;Neptune;2
+Which gas is used in photosynthesis?;Carbon Dioxide;Oxygen;Nitrogen;Hydrogen;0
+Who discovered gravity?;Albert Einstein;Isaac Newton;Galileo Galilei;Marie Curie;1
+Which is the smallest prime number?;0;1;2;3;2
+Which instrument measures earthquakes?;Barometer;Seismograph;Hygrometer;Anemometer;1
+Who was the first President of India?;Mahatma Gandhi;Rajendra Prasad;Sardar Patel;Jawaharlal Nehru;1
+Which river is the longest in the world?;Ganga;Nile;Amazon;Yangtze;1
+What is the SI unit of force?;Joule;Newton;Pascal;Watt;1
+Which is the national fruit of India?;Banana;Mango;Apple;Orange;1
+Which is the largest desert in the world?;Thar;Sahara;Kalahari;Gobi;1
+Which country hosted the 2016 Summer Olympics?;China;Brazil;Russia;Japan;1
+Who is known as the Missile Man of India?;Vikram Sarabhai;Homi Bhabha;A.P.J. Abdul Kalam;C.V. Raman;2
+In which year did India get independence?;1945;1946;1947;1950;2
+What is the national flower of India?;Rose;Lotus;Jasmine;Sunflower;1
+Which part of the plant conducts photosynthesis?;Root;Stem;Leaf;Flower;2
+Which blood group is called the universal donor?;A;B;AB;O;3
+What is the boiling point of water at sea level?;90°C;95°C;100°C;110°C;2
+Which is the fastest land animal?;Lion;Cheetah;Horse;Tiger;1
+Who developed the theory of relativity?;Newton;Einstein;Galileo;Kepler;1
+Which is the largest gland in the human body?;Thyroid;Liver;Pancreas;Kidney;1
+How many continents are there in the world?;5;6;7;8;2
+What is the capital of Australia?;Sydney;Canberra;Melbourne;Perth;1
+Who was the first woman Prime Minister of India?;Indira Gandhi;Sarojini Naidu;Pratibha Patil;Sonia Gandhi;0
+Which vitamin is produced in the skin by sunlight?;Vitamin A;Vitamin B;Vitamin C;Vitamin D;3
+Which is the coldest planet in the solar system?;Venus;Mars;Uranus;Neptune;3
+Which is the largest bone in the human body?;Femur;Tibia;Humerus;Fibula;0
+Who discovered penicillin?;Alexander Fleming;Louis Pasteur;Edward Jenner;Joseph Lister;0
+Which instrument is used to measure temperature?;Thermometer;Barometer;Hygrometer;Altimeter;0
+What is the currency of Japan?;Won;Yen;Dollar;Peso;1
+Which metal is liquid at room temperature?;Gold;Mercury;Silver;Aluminium;1
+What is the speed of light?;3x10^6 m/s;3x10^7 m/s;3x10^8 m/s;3x10^9 m/s;2
+Which gas do plants release during photosynthesis?;Oxygen;Carbon Dioxide;Nitrogen;Hydrogen;0
+What is the capital of Canada?;Toronto;Ottawa;Vancouver;Montreal;1
+Which is the tallest mountain in the world?;K2;Everest;Kangchenjunga;Lhotse;1
+What is the national game of India (traditional)?;Hockey;Cricket;Kabaddi;Football;0
+What is the currency of USA?;Dollar;Pound;Euro;Peso;0
+Who is called the Iron Man of India?;Mahatma Gandhi;Sardar Patel;Bhagat Singh;Subhash Bose;1
+Which is the smallest ocean in the world?;Arctic;Indian;Atlantic;Pacific;0
+Who invented the electric bulb?;Newton;Faraday;Edison;Tesla;2
+Which planet is closest to the Sun?;Mercury;Venus;Earth;Mars;0
+What is HCl commonly known as?;Hydrochloric Acid;Sulphuric Acid;Nitric Acid;Carbonic Acid;0
+Which organ purifies blood in the human body?;Heart;Kidney;Lungs;Liver;1
+Who gave the slogan "Inquilab Zindabad"?;Bhagat Singh;Mahatma Gandhi;Lala Lajpat Rai;Sardar Patel;0
+What is the capital of Italy?;Milan;Rome;Venice;Naples;1
+What is the full form of CPU?;Central Processing Unit;Central Power Unit;Computer Processing Unit;Central Print Unit;0
+What is the square root of 144?;10;11;12;13;2
+Which sport uses the term 'love'?;Cricket;Football;Tennis;Hockey;2
+Which gas is used in balloons?;Oxygen;Carbon Dioxide;Helium;Nitrogen;2
+Which is the largest country by area?;USA;China;Russia;Canada;2
+What is the capital of China?;Shanghai;Beijing;Hong Kong;Guangzhou;1
+Which blood group is universal recipient?;A;B;AB;O;2
+Which language has the most native speakers?;English;Spanish;Mandarin Chinese;Hindi;2
+What is the freezing point of water?;0°C;32°C;100°C;273°C;0
+Who is the CEO of Tesla (2025)?;Bill Gates;Elon Musk;Sundar Pichai;Tim Cook;1
+Which instrument is used to measure pressure?;Thermometer;Barometer;Altimeter;Hygrometer;1
+What is the national bird of India?;Crow;Parrot;Peacock;Eagle;2
+Who discovered India in 1498?;Christopher Columbus;Vasco da Gama;Marco Polo;Ferdinand Magellan;1
+Which continent has the most countries?;Asia;Africa;Europe;South America;1
+What is the capital of Germany?;Berlin;Munich;Hamburg;Frankfurt;0
+Which device is used for sending emails?;Scanner;Printer;Computer;Projector;2
+Which is the smallest planet in the solar system?;Mercury;Mars;Venus;Pluto;0
+Who was the first man to step on the Moon?;Yuri Gagarin;Neil Armstrong;Buzz Aldrin;Michael Collins;1
+Which is the largest island in the world?;Greenland;Madagascar;Iceland;New Guinea;0
+Which is the longest wall in the world?;Berlin Wall;Great Wall of China;Hadrian's Wall;Wall of Babylon;1
+What is the study of stars called?;Geology;Astronomy;Biology;Meteorology;1
+Which is the largest freshwater lake in the world?;Lake Superior;Lake Baikal;Lake Victoria;Lake Tanganyika;0
+What is the currency of UK?;Euro;Pound Sterling;Dollar;Franc;1
+Which is the largest animal on Earth?;Elephant;Blue Whale;Shark;Giraffe;1
+What is the national currency of India?;Dollar;Rupee;Taka;Dinar;1
+Which country gifted the Statue of Liberty to USA?;Germany;France;UK;Spain;1
+What is the capital of Russia?;Moscow;St. Petersburg;Kiev;Sochi;0
+What is the national sport of Japan?;Baseball;Sumo Wrestling;Judo;Karate;1
+Which is the deepest ocean in the world?;Indian;Atlantic;Pacific;Arctic;2
+What is 15 × 12?;150;160;170;180;3
+What is the SI unit of energy?;Watt;Joule;Newton;Pascal;1
+Which festival is known as the Festival of Lights?;Holi;Diwali;Eid;Christmas;1
+What is the national currency of China?;Yuan;Yen;Won;Ringgit;0
+What is the capital of Pakistan?;Karachi;Islamabad;Lahore;Multan;1
+What is the largest organ in the human body?;Heart;Liver;Skin;Brain;2
+What is 9 × 8?;72;81;64;90;0
+Which gas is called laughing gas?;Oxygen;Nitrogen;Nitrous Oxide;Carbon Dioxide;2
