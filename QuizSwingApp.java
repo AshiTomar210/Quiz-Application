@@ -404,12 +404,19 @@ public class QuizSwingApp extends JFrame {
         // Load questions
         try {
             questions = QuestionLoader.loadFromFile(QUESTIONS_FILE);
-            if (questions.isEmpty()) {
-                JOptionPane.showMessageDialog(this, "No questions found in " + QUESTIONS_FILE,
-                        "Error", JOptionPane.ERROR_MESSAGE);
-                return;
-            }
-            Collections.shuffle(questions, new Random());
+          if (questions.isEmpty()) {
+            JOptionPane.showMessageDialog(this, "No questions found in " + QUESTIONS_FILE,
+        "Error", JOptionPane.ERROR_MESSAGE);
+
+    return;
+}
+// Shuffle all questions
+Collections.shuffle(questions, new Random());
+
+// Pick only 10 (or less if file has fewer)
+if (questions.size() > 10) {
+    questions = new ArrayList<>(questions.subList(0, 10));
+}
         } catch (IOException ex) {
             JOptionPane.showMessageDialog(this,
                     "Failed to read " + QUESTIONS_FILE + "\n" + ex.getMessage(),
